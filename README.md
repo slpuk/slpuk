@@ -9,7 +9,7 @@
 I'm an **embedded** and **full-stack developer** with a passion for building things that bridge the gap between hardware and software. I love creating tools that make developers' lives easier and exploring the boundaries of what's possible with code.
 
 - I'm currently working on **EasyHTTP** - a lightweight P2P framework for IoT communication
-- I'm diving deep into **ASGI servers**, **FreeRTOS**, and **industrial protocols**
+- I'm diving deep into **FreeRTOS** & **network protocols**
 - I'm looking to collaborate on interesting open-source projects
 
 ## 🛠️ Tech Stack
@@ -44,10 +44,6 @@ A lightweight HTTP-based P2P framework for IoT communication. Features async cor
 A visual graph editor for creating diagrams and flowcharts. Supports multiple node shapes, customizable properties, and export to custom `.kgraph` format.  
 `Electron` `Node.js` `Two.js`
 
-### [**lightcorn**](https://github.com/slpuk/lightcorn)
-A lightweight ASGI server for Python with zero dependencies. Fully ASGI-compliant and capable of running FastAPI applications.  
-`Python` `ASGI` `asyncio`
-
 <!-- [](https://github.com/slpuk/pixelstorm) -->
 ### **PixelStorm**
 Advanced LED matrix controller for ESP32 with FreeRTOS, web interface, and multiple animation modes. Features WiFi setup wizard, NTP clock, and scrolling text.  
@@ -55,7 +51,7 @@ Advanced LED matrix controller for ESP32 with FreeRTOS, web interface, and multi
 
 ### [**Ultimate Redstone+**](https://modrinth.com/resourcepack/ultimate-redstone-plus)
 A Minecraft resource pack with enhanced visual feedback for redstone components.  
-`3000+ downloads` `Minecraft` `Resource Pack`
+`4000+ downloads` `Minecraft` `Resource Pack`
 
 ## 📊 GitHub Stats
 
