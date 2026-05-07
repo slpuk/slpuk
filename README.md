@@ -40,9 +40,13 @@ I'm an **embedded** and **full-stack developer** with a passion for building thi
 A lightweight HTTP-based P2P framework for IoT communication. Features async core, sync wrapper, and human-readable device IDs.  
 `Python` `FastAPI` `aiohttp` `P2P`
 
+### [**Scoperta**](https://github.com/slpuk/scoperta)
+A lightweight network service discovery protocol.
+`NodeJS` `UDP` `Discovery`
+
 ### [**KoolGrapher**](https://github.com/slpuk/koolgrapher)
 A visual graph editor for creating diagrams and flowcharts. Supports multiple node shapes, customizable properties, and export to custom `.kgraph` format.  
-`Electron` `Node.js` `Two.js`
+`Electron` `NodeJS` `Two.js`
 
 <!-- [](https://github.com/slpuk/pixelstorm) -->
 ### **PixelStorm**
