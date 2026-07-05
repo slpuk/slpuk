@@ -8,7 +8,6 @@
 
 I'm an **embedded** and **full-stack developer** with a passion for building things that bridge the gap between hardware and software. I love creating tools that make developers' lives easier and exploring the boundaries of what's possible with code.
 
-- I'm currently working on **EasyHTTP** - a lightweight P2P framework for IoT communication
 - I'm diving deep into **FreeRTOS** & **network protocols**
 - I'm looking to collaborate on interesting open-source projects
 
@@ -40,11 +39,6 @@ I'm an **embedded** and **full-stack developer** with a passion for building thi
 A lightweight HTTP-based P2P framework for IoT communication. Features async core, sync wrapper, and human-readable device IDs.  
 
 `Python` `FastAPI` `aiohttp` `P2P`
-
-### [**Scoperta**](https://github.com/slpuk/scoperta)
-A lightweight network service discovery protocol.
-
-`NodeJS` `UDP` `Discovery`
 
 ### [**KoolGrapher**](https://github.com/slpuk/koolgrapher)
 A visual graph editor for creating diagrams and flowcharts. Supports multiple node shapes, customizable properties, and export to custom `.kgraph` format.  
