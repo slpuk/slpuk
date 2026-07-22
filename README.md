@@ -2,7 +2,6 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slpuk)
 [![Modrinth](https://img.shields.io/badge/modrinth-00A571?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/ffreq76)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/asm1024)
 
 ## ❓ About Me
 
