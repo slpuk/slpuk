@@ -5,7 +5,7 @@
 
 ## ❓ About Me
 
-I'm an **embedded** and **full-stack developer** with a passion for building things that bridge the gap between hardware and software. I love creating tools that make developers' lives easier and exploring the boundaries of what's possible with code.
+I'm an **embedded** and **backend developer** with a passion for building things that bridge the gap between hardware and software. I love creating tools that make developers' lives easier and exploring the boundaries of what's possible with code.
 
 - I'm diving deep into **FreeRTOS** & **network protocols**
 - I'm looking to collaborate on interesting open-source projects
