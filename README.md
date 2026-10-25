@@ -25,7 +25,6 @@ I'm an **embedded** and **backend developer** with a passion for building things
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=KiCad&logoColor=white)
 
 ### Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -51,12 +50,10 @@ Advanced LED matrix controller for ESP32 with FreeRTOS, web interface, and multi
 
 ### [**Ultimate Redstone+**](https://modrinth.com/resourcepack/ultimate-redstone-plus)
 A Minecraft resource pack with enhanced visual feedback for redstone components.  
-`4000+ downloads` `Minecraft` `Resource Pack`
+`9000+ downloads` `Minecraft` `Resource Pack`
 
 ## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slpuk&theme=dark)
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=slpuk&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slpuk&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slpuk&layout=compact&theme=dark"/>
+</p>
