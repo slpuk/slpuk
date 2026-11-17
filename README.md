@@ -91,7 +91,9 @@ A popular Minecraft resource pack that adds visual indicators for Redstone compo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slpuk&theme=dark">
+  <a href="https://github.com/slpuk">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slpuk&theme=dark">
+  </a>
 </p>
 
 <p align="center">
@@ -99,6 +101,6 @@ A popular Minecraft resource pack that adds visual indicators for Redstone compo
     <img src="https://github-stats.coela.workers.dev/api?username=slpuk&show_icons=true&include_all_commits=true&title_color=4CAF80&icon_color=4CAF80&text_color=ffffff&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&number_format=long" alt="GitHub stats" height="200em"/>
   </a>
   <a href="https://github.com/slpuk">
-    <img src="https://github-stats.coela.workers.dev/api/top-langs/?username=slpuk&layout=donut&langs_count=8&title_color=4CAF80&icon_color=4CAF80&text_color=ffffff&hide_border=true" alt="Top languages" height="200em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slpuk&layout=compact&theme=dark"/>
   </a>
 </p>
