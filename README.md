@@ -98,7 +98,7 @@ A popular Minecraft resource pack that adds visual indicators for Redstone compo
 
 <p align="center">
   <a href="https://github.com/slpuk">
-    <img src="https://github-stats.coela.workers.dev/api?username=slpuk&show_icons=true&include_all_commits=true&title_color=4CAF80&icon_color=4CAF80&text_color=ffffff&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&number_format=long" alt="GitHub stats" height="200em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=slpuk&show_icons=true&theme=dark"/>
   </a>
   <a href="https://github.com/slpuk">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slpuk&layout=compact&theme=dark"/>
