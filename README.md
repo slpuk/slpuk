@@ -4,6 +4,8 @@
 [![Modrinth](https://img.shields.io/badge/modrinth-00A571?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/ffreq76)
 [![FurAffinity](https://img.shields.io/badge/FurAffinity-F1641E?style=for-the-badge&logoColor=white)](https://www.furaffinity.net/user/slpuk/)
 
+*Visit my FurAffinity, I draw sometimes*
+
 ## ❓ About Me
 
 I'm an **embedded** and **backend developer** with a passion for building things that bridge the gap between hardware and software. I love creating tools that make developers' lives easier and exploring the boundaries of what's possible with code.
@@ -38,7 +40,7 @@ Also, I'm a furry protogen :P
 
 ## 📌 Featured Projects
 
-### 🦊 [**OpenProtogen**](https://github.com/OpenProtogen)
+### 🦊 **OpenProtogen**
 
 Open-source firmware for a Protogen smart visor. A highly modular system where every component does exactly one job.
 
